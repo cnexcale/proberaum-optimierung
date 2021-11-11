@@ -34,12 +34,16 @@ Das kann man aus 3 Richtungen angehen:
 
 **Drums**
 - "zentral", sodass alle gleich gut hören
+- evtl. Drum Raiser
+  - kann als Bassfalle agieren
+  - "bricht" den Boden als gerade Reflektionsfläche
+  - z.B. Europaletten, Teppich reinstopfen und Teppich drüber
 
 ## Mögliche Aufstellung
 
 <img src="assets/00-aufstellung.jpg" title="PR Aufstellung" height="400">
 
-
+Das Bild stellt nicht 100% unsere Raumform dar, aber könnte von der Anordnung dennoch übernommen werden.
 
 # 2 - Schalldämpfung / Akustik optimieren
 
@@ -54,11 +58,21 @@ Das kann man aus 3 Richtungen angehen:
 
 ### Wie erreicht?
 - parallele glatte Flächen vermeiden
+
 - Akustikschaumstoff
+  - mindestens an der Wand gegenüber der Quelle
+  - also gegenüber der Git Amps
+    - hier ggf. auch Diffusor möglich, um Gitarren Sound im Raum zu verteilen
+  - gegenüber des Gesangsmikros
+  - um die Drums herum (Decke, Seiten)
 
 - in Falten gehangener Bühnenstoff
-  - nur für hohe Frequenzen wirklich effektiv!
+  - nur für hohe Frequenzen wirklich effektiv
   - \>= 500 g/m^2
+  - je weiter weg von der Wand, desto effektiver
+
+- selbstgebaute Rahmen mit Dämmstoff
+  - Holzrahmen, darin Schaumstoff/Dämmwolle, mit Stoff bespannen
 
 - Decke: in Wellen gehangener Bühnenstoff
   - Wellen vermeiden "glatte" Flächen
@@ -69,7 +83,8 @@ Das kann man aus 3 Richtungen angehen:
 
 - für tiefe Frequenzen: Bassfallen
   - wichtig in den Ecken 
-  - brauchen idR viel Volumen
+  - brauchen idR viel Volumen (groß und massiv)
+
 
 
 ## Streuung / Diffusion
@@ -82,6 +97,15 @@ Das kann man aus 3 Richtungen angehen:
 ### Wie erreicht?
 - harte, nicht-glatte / unregelmäßige Flächen
 - Regale
+- zylindrische Diffusoren
+  - agieren gleichzeitig mit als Bassfalle, wenn diese massiv genug sind
+
+## Fazit
+- keine Eierpappen
+- Teppich und Bühnenstoff nur bedingt geeignet
+- unbedingt Absorption und Diffusion mischen
+- in Längsrichtung:
+  - Absorber/Diffusoren ggf. gegenüberliegend versetzt anbringen 
 
 ## Beispiele
 
@@ -92,6 +116,9 @@ Das kann man aus 3 Richtungen angehen:
 
 <img src="assets/01-diffusor-beispiel.jpg" width="400">
 
+<img src="https://www.amazona.de/wp-content/uploads/2030/01/poly-zylindrischer-absorber-grafik-rand.jpeg" width="400">
+
+
 **Bassfallen**
 
 <img src="assets/02-bass-trap-0.jpg" height="300"> <img src="assets/03-bass-trap-1.jpg" height="300">
@@ -101,14 +128,21 @@ Das kann man aus 3 Richtungen angehen:
 ## Drums
 - so laut wie nötig, so leise wie möglich
 - ggf. dünnere Sticks
-- Nachhall von Toms / Bass drum dämpfen
-  - (Gaffa drauf?)
+- Nachhall von Toms / Bass drum verringern
+  - (Wie geht das?)
+
+- Toms/Snare dämpfen
+  - nimmt idR Soundqualität raus, aber senkt Lautstärke
+
 - Dünne Becken
   - Dicke, lang klingende Becken nehmen alle Frequenzbereiche ein
   - drücken damit alle anderen Instrumente weg
   - Folge: kein anderer hört sich mehr
 
 - dicker Teppich unterm Schlagzeug 
+
+- Trommeln stimmen
+  - klareres Soundbild
 
 ## Gitarren
 - idR Bass runter/raus
@@ -119,11 +153,25 @@ Das kann man aus 3 Richtungen angehen:
 - Fokus der Frequenzen zwischen den Gitarren aufteilen
   - vermeidet Überlagerungen
   - Gitarren können differenziert wahrgenommen werden
+- [Artikel über Git Sound im Bandkontext](https://www.amazona.de/gitarrensound-verbessern-tipps-tricks-fuer-gitarristen/)
 
 ## Bass
 
+## Gesang
+- bei Feedback
+  - zeigt direkte Schallquelle / Reflexion auf Mikro?
+  - Gain abstimmen
+  - mit Equalizer Feedbackfrequenz etwas rausnehmen 
 
-# Zum Nachlesen
+
+# Quellen / Zum Nachlesen
 [Thoman Blog, kurz, Absorption, Diffusion, Bassfallen](https://www.thomann.de/blog/de/akustik-verbessern-im-proberaum-tipps-tricks/)
 
-[]()
+[Rundumschlag zu Aufstellung, Abstimmung, Akustik](http://www.mix4munich.de/proberaum.htm)
+
+[13 Tips für besseren Sound](https://www.amazona.de/workshop-13-tipps-fuer-guten-sound-im-proberaum/)
+
+[Ein kleiner Fokus auf Gesang, widerspricht teilweise anderen Quellen](https://www.bonedo.de/artikel/einzelansicht/so-geht-guter-proberaum-sound.html)
+
+[Etwas Schalldämmung (nicht wichtig) und etwas zur Dämpfung](https://www.img-stageline.de/magazin/proberaum-raumakustik)
+
