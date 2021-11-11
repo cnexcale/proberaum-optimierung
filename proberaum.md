@@ -11,6 +11,11 @@ Das kann man aus 3 Richtungen angehen:
 2. Akustik des Raumes verändern
 3. Sound der Instrumente abstimmen/anpassen
 
+Offene Fragen: 
+  - Wie viel Absorption/Diffusion ist wirklich nötig?
+  - Was sind Raummoden?
+  - Wann und wie lohnen sich Breitbandabsorber?
+  
 # 1 - Proberaum Aufstellung
 ## Grundprinzipien
 **Bass**
@@ -60,6 +65,7 @@ Das Bild stellt nicht 100% unsere Raumform dar, aber könnte von der Anordnung d
 - parallele glatte Flächen vermeiden
 
 - Akustikschaumstoff
+  - für mittige/hohe Frequenzen
   - mindestens an der Wand gegenüber der Quelle
   - also gegenüber der Git Amps
     - hier ggf. auch Diffusor möglich, um Gitarren Sound im Raum zu verteilen
@@ -103,14 +109,17 @@ Das Bild stellt nicht 100% unsere Raumform dar, aber könnte von der Anordnung d
 ## Fazit
 - keine Eierpappen
 - Teppich und Bühnenstoff nur bedingt geeignet
+  - Bühnenstoff für die Decke in Wellen ok
 - unbedingt Absorption und Diffusion mischen
 - in Längsrichtung:
-  - Absorber/Diffusoren ggf. gegenüberliegend versetzt anbringen 
+  - Absorber/Diffusoren ggf. gegenüberliegend versetzt anbringen
+  - Schachbrett Muster
 
 ## Beispiele
 
 **Absorber**
 
+<img src="https://thumbs.static-thomann.de/thumb/orig/pics/bdb/315594/13187386_800.webp" width="300"> <img src="https://thumbs.static-thomann.de/thumb/orig/pics/bdb/470209/14396694_800.webp" width="300">
 
 **Diffusor**
 
