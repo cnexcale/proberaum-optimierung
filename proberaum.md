@@ -1,4 +1,17 @@
-# Proberaum - Aufstellung
+# Grundproblem
+- man hört sich nicht
+- man hört andere nicht
+- die Ohren klingeln
+- häufige Ursache: schlechte Akustik mit Lautstärke kompensieren oder allgemein zu hohe Lautstärke
+  - nicht gut für den Sound
+  - nicht gut für die Ohren
+
+Das kann man aus 3 Richtungen angehen:
+1. Positionierung der Schallquellen und Menschen
+2. Akustik des Raumes verändern
+3. Sound der Instrumente abstimmen/anpassen
+
+# 1 - Proberaum Aufstellung
 ## Grundprinzipien
 **Bass**
 - idR in die Ecke
@@ -26,11 +39,11 @@
 
 <img src="assets/00-aufstellung.jpg" title="PR Aufstellung" height="400">
 
-# Proberaum - Schalldämpfung / Akustik optimieren
 
-Häufiges Problem: schlechte Akustik mit Lautstärke kompensieren
-- nicht gut für den Sound
-- nicht gut für die Ohren
+
+# 2 - Schalldämpfung / Akustik optimieren
+
+
 
 ## Dämpfung / Absorption
 
@@ -42,7 +55,9 @@ Häufiges Problem: schlechte Akustik mit Lautstärke kompensieren
 ### Wie erreicht?
 - parallele glatte Flächen vermeiden
 - Akustikschaumstoff
+
 - in Falten gehangener Bühnenstoff
+  - nur für hohe Frequenzen wirklich effektiv!
   - \>= 500 g/m^2
 
 - Decke: in Wellen gehangener Bühnenstoff
@@ -51,6 +66,11 @@ Häufiges Problem: schlechte Akustik mit Lautstärke kompensieren
 
 - zu viel Absorption kann Dynamik killen -> "trockener" Sound
   - eher relevant, wenn man zu viel Geld in Akustikschaum investiert hat
+
+- für tiefe Frequenzen: Bassfallen
+  - wichtig in den Ecken 
+  - brauchen idR viel Volumen
+
 
 ## Streuung / Diffusion
 ### Warum wichtig?
@@ -63,11 +83,20 @@ Häufiges Problem: schlechte Akustik mit Lautstärke kompensieren
 - harte, nicht-glatte / unregelmäßige Flächen
 - Regale
 
-**Beispiel für "Profizeug"**
+## Beispiele
+
+**Absorber**
+
+
+**Diffusor**
 
 <img src="assets/01-diffusor-beispiel.jpg" width="400">
 
-# Sound Abstimmung / Optimierung
+**Bassfallen**
+
+<img src="assets/02-bass-trap-0.jpg" height="300"> <img src="assets/03-bass-trap-1.jpg" height="300">
+
+# 3 - Sound Abstimmung / Optimierung
 
 ## Drums
 - so laut wie nötig, so leise wie möglich
