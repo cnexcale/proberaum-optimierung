@@ -15,7 +15,7 @@ Offene Fragen:
   - Wie viel Absorption/Diffusion ist wirklich nötig?
   - Was sind Raummoden?
   - Wann und wie lohnen sich Breitbandabsorber?
-  
+
 # 1 - Proberaum Aufstellung
 ## Grundprinzipien
 **Bass**
@@ -94,6 +94,7 @@ Das Bild stellt nicht 100% unsere Raumform dar, aber könnte von der Anordnung d
 
 
 ## Streuung / Diffusion
+
 ### Warum wichtig?
 - Alternative/Ergänzung der Absorption
 - statt Schall zu absorbieren, wird dieser gestreut
