@@ -173,6 +173,20 @@ Das Bild stellt nicht 100% unsere Raumform dar, aber könnte von der Anordnung d
   - Gain abstimmen
   - mit Equalizer Feedbackfrequenz etwas rausnehmen 
 
+# 4 Praxis
+
+## Akustikschaumstoff befestigen
+(Thomann Akustik Kleber)[https://www.thomann.de/de/the_takustik_kontaktkleber.htm]
+```
+How-to:
+
+1. Auspresspistole besorgen
+2. Spritztülle ca. 1cm weit aufschneiden
+3. Bei Wandbefestigung: Kleber punktuell auf der Platte aufbringen
+3. Bei Deckenbefestigung: Kleber streifenförmig entlang der Außenkante und X-förmig innen auf der Platte aufbringen
+4. Kleber mit einem Spachtel möglichst flächig verstreichen - dieser Punkt ist wichtig, da der Kleber sonst nur punktförmig anhaftet und somit nicht richtig kleben kann!
+5. Platte einige Sekunden andrücken, fertig!
+```
 
 # Quellen / Zum Nachlesen
 [Thoman Blog, kurz, Absorption, Diffusion, Bassfallen](https://www.thomann.de/blog/de/akustik-verbessern-im-proberaum-tipps-tricks/)
